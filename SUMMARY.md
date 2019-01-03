@@ -9,6 +9,7 @@
 * 第四章 Flink
 * 第五章 基础算法
 * 第六章 开源项目
+  * [Kaggle](project/kaggle.md)
   * [人脸识别](project/face-recognition.md)
 * 第七章 推荐系统
   * [资料汇总](recommendation/resource.md)
