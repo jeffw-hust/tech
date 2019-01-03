@@ -1,9 +1,9 @@
 # Table of contents
 
 * 第一章 Python基础
-  * [Python开发环境](python/dev.md)
-  * [Pytorch](python/pytorch.md)
-  * [Scikit-learn](python/scikit-learn.md)
+  * [开发环境](python/dev.md)
+  * [PyTorch](python/pytorch.md)
+  * [scikit-learn](python/scikit-learn.md)
 * 第二章 Java基础
 * 第三章 计算引擎
   * [Spark](engineering/spark.md)

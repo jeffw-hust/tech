@@ -1,7 +1,7 @@
 # Kaggle
 
 ### 经验帖
-* [Kaggle比赛经验](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
+* [dnc1994/Kaggle比赛经验](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
 
 ### 方法论
 * Data Exploration

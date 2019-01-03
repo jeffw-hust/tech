@@ -1,6 +1,7 @@
 # PyTorch
 
-### 教程
-* [PyTorch官网](https://pytorch.org/)
-* [PyTorch开源代码Github](https://github.com/pytorch/pytorch)
-* [《PyTorch中文教程》](http://pytorch.apachecn.org/cn/tutorials/)
+### Overview
+* [官方网站](https://pytorch.org/)
+* [官方源码](https://github.com/pytorch/pytorch)
+* [官方文档](https://pytorch.org/docs/stable/index.html)
+* [PyTorch 0.3.0 中文文档](https://pytorch.apachecn.org/#/)
