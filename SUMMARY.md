@@ -11,3 +11,4 @@
 * 第六章 开源项目
   * [人脸识别](project/face-recognition.md)
 * 第七章 推荐系统
+  * [资料汇总](recommendation/resource.md)
