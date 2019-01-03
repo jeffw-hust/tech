@@ -3,6 +3,7 @@
 * 第一章 Python基础
   * [Python开发环境](python/dev.md)
   * [Pytorch](python/pytorch.md)
+  * [Scikit-learn](python/scikit-learn.md)
 * 第二章 Java基础
 * 第三章 Spark
 * 第四章 Flink
