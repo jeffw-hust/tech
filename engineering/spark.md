@@ -13,6 +13,7 @@
 * [jetbrains/IDEA-scala插件站点](https://plugins.jetbrains.com/plugin/1347-scala)  
 
 ### Spark-on-odps
+* [github/aliyun-cupid-sdk](https://github.com/aliyun/aliyun-cupid-sdk#5.3.4)
 * [yuque/alispark](https://yuque.antfin-inc.com/amr/alispark)
 * [aliyun/Spark-on-odps2.0](http://help.aliyun-inc.com/internaldoc/detail/44516.html?spm=a2c1f.8259796.2.235.17fb96d5ihvrOT)
 
