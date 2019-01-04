@@ -5,6 +5,7 @@
   * [PyTorch](python/pytorch.md)
   * [scikit-learn](python/scikit-learn.md)
 * 第二章 Java基础
+  * [Maven](java/maven.md)
 * 第三章 计算引擎
   * [Spark](engineering/spark.md)
   * [Flink](engineering/flink.md)
