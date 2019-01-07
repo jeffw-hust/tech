@@ -4,6 +4,7 @@
 * [官方文档](http://spark.apache.org/)
 * [Spark 2.4.0官方文档](http://spark.apache.org/docs/latest/)
 * [Spark 2.2.0中文文档](http://spark.apachecn.org/#/)
+* [豆瓣读书/《Spark快速大数据分析》](https://book.douban.com/subject/26616244/)
 * [atatech/新手Spark入门——Spark的安装与使用](https://www.atatech.org/articles/76704)
 
 ### Scala
