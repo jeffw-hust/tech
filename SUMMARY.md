@@ -10,7 +10,8 @@
   * [Spark](engineering/spark.md)
   * [Flink](engineering/flink.md)
 * 第四章 基础算法
-  * [hash](algorithm/hash.md)
+  * [Hash](algorithm/hash.md)
+  * [Similarity](algorithm/similar.md)
 * 第五章 开源项目
   * [Kaggle](project/kaggle.md)
   * [人脸识别](project/face-recognition.md)
