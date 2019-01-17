@@ -12,6 +12,8 @@
 * 第四章 基础算法
   * [Hash](algorithm/hash.md)
   * [Similarity](algorithm/similar.md)
+  * [Classification](algorithm/classification.md)
+  * [Ensemble Learning](algorithm/ensemble.md)
 * 第五章 开源项目
   * [Kaggle](project/kaggle.md)
   * [人脸识别](project/face-recognition.md)

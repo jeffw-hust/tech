@@ -22,5 +22,13 @@
 * [aliyun/Spark-on-odps2.0](http://help.aliyun-inc.com/internaldoc/detail/44516.html?spm=a2c1f.8259796.2.235.17fb96d5ihvrOT)
 * [atatech/Spark On ODPS如何设置log4j级别](https://www.atatech.org/articles/94267)
 
-### 好文收藏
+### 架构
 * [dataunion/Spark Standalone架构分析](http://dataunion.org/27137.html)
+
+### Spark性能调优
+* [ibm/Apache Spark 内存管理详解](
+  https://www.ibm.com/developerworks/cn/analytics/library/ba-cn-apache-spark-memory-management/index.html)
+* [javachen/Spark配置参数](
+  http://blog.javachen.com/2015/06/07/spark-configuration.html)
+* [stackoverflow/how-to-tune-spark-executor-number-cores-and-executor-memory](
+  https://stackoverflow.com/questions/37871194/how-to-tune-spark-executor-number-cores-and-executor-memory)
