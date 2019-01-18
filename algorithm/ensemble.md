@@ -5,10 +5,8 @@
 * [wikipedia/Boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning)
 
 ### Boosting
-* [wikipedia/Gradient boosting](
-  https://en.wikipedia.org/wiki/Gradient_boosting)
-* AdaBoost
-* GBDT
+* [wikipedia/AdaBoost](https://en.wikipedia.org/wiki/AdaBoost)
+* [wikipedia/Gradient boosting](https://en.wikipedia.org/wiki/Gradient_boosting)
 
 ### Parallel Methods
 * Bagging
